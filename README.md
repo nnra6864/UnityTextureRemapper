@@ -7,11 +7,11 @@ This tool is made and tested in Unity 6, other versions may work too.
 ### Importing
 Simply clone this repository to your Assets directory:
 ```
-git clone https://github.com/nnra6864/TextureRemapper
+git clone https://github.com/nnra6864/UnityTextureRemapper
 ```
-Or add it as a submodule to your git repo (make sure to adjust the path)
+Or add it as a submodule to your git repo (make sure to adjust the url and path)
 ```
-git submodule add https://github.com/nnra6864/TextureRemapper Assets/TextureRemapper
+git submodule add ../nnra6864/TextureRemapper Assets/TextureRemapper
 ```
 
 ### Accessing Texture Remapper
