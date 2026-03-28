@@ -49,7 +49,7 @@ To simplify the Blender workflow and avoid editing the shader etc., we can simpl
 | Metallic  | R       | Metallic   | R       | X      |
 | Roughness | R       | Smoothness | A       | ✓      |
 
-![image](https://github.com/user-attachments/assets/5010d938-e642-4c3f-bc00-5a9a232e6171)
+![image](Media/MetallicSmoothness.png)
 </details>
 
 <details>
@@ -64,5 +64,5 @@ Whilst we can easily map AO from channel R to channel G, and Metallic from B to 
 | Roughness         | G       | Smoothness        | A       | ✓      |
 | Metallic          | B       | Metallic          | R       | X      |
 
-![image](https://github.com/user-attachments/assets/e2b711b9-aaf6-4ea8-a8d0-a8598178960e)
+![MAS](Media/MAS.png)
 </details>
