@@ -1,0 +1,19 @@
+{
+    "name": "com.nnra6864.nn-unity-texture-remapper",
+    "version": "1.0.0",
+    "displayName": "Nn Unity Texture Remapper",
+    "description": "Tool to remap textures",
+    "keywords": [
+        "nn",
+        "texture",
+        "remapper",
+        "tool",
+        "utils"
+    ],
+    "author": {
+        "name": "nnra6864",
+        "email": "nnra2210@gmail.com",
+        "url": "https://nnra6864.github.io/nnra/"
+    }
+}
+
